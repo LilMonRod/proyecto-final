@@ -220,6 +220,7 @@ function limpiar(){
 
     subT = 0;
     total = 0; 
+    document.getElementById("formulario").reset();
         
 }
 
