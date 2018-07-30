@@ -1,0 +1,23 @@
+ .formu{
+    display : block;
+    margin-bottom: 20px;
+
+}
+form {
+    margin-left : 30px;
+}
+li {
+    margin-bottom: 20px;
+    list-style : none;
+}
+#cat {
+    display: inline-block;
+    margin-bottom: 25px;
+}
+#exit {
+    background-color: 	#ff4500;
+    margin-left: 30px;
+}
+button {
+    margin-top: 20px;
+}

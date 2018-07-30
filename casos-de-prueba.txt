@@ -1,0 +1,85 @@
+Resultados de las pruebas hechas al proyecto final:
+ 
+
+	1. Datos digitados
+* Ciente Lilliam
+* Id 946401778754875
+* Categoria cliente 1
+* Cantidad de libros de matemáticas 1
+* Cantidad de libros de estudios sociales 5
+* Cantidad de libros de Física 4
+
+
+	Datos de respuesta
+
+* Ciente Lilliam
+* Id 946401778754875
+* Cantidad de libros comprados 10
+* subtotal 43000
+* Descuento 12900
+* Total 30100
+
+	2. Datos digitados
+* Ciente Diego
+* Id 116505272317553
+* Categoria cliente 8
+* Cantidad de libros de matemáticas 54
+* Cantidad de libros de estudios sociales
+* Cantidad de libros de Fisica
+
+
+	Datos de respuesta
+
+* Ciente Diego
+* Id 116505272317553
+* Cantidad de libros comprados 54
+* subtotal 108000
+* Descuento 0
+* Total 108000
+
+	3. Datos digitados
+* Ciente Rosa
+* Id 838473489555909
+* Categoria cliente 3
+* Cantidad de libros de matemáticas
+* Cantidad de libros de estudios sociales 8
+* Cantidad de libros de Fisica 10
+
+
+	Datos de respuesta
+
+* Ciente rosa
+* Id 838473489555909
+* Cantidad de libros comprados 18
+* subtotal 80000
+* Descuento 8000
+* Total 72000
+
+
+	Datos de respuesta
+
+* Ciente Diego
+* Id 116505272317553
+* Cantidad de libros comprados 54
+* subtotal 108000
+* Descuento 0
+* Total 108000
+
+	3. Datos digitados
+* Ciente cocochannel
+* Id 117
+* Categoria cliente 1
+* Cantidad de libros de matemáticas 40
+* Cantidad de libros de estudios sociales 15
+* Cantidad de libros de Fisica 17
+
+
+	Datos de respuesta
+
+* Ciente cocochannel
+* Id 117
+* Cantidad de libros comprados 62
+* subtotal 183000
+* Descuento 54000
+* Total 128100
+

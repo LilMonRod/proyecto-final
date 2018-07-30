@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Proyecto final</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+    </head>
+    <body>
+        <div id="encabezado">
+            <h1 id="header">Bienvenido Libreria Patito</h1>
+        </div>
+        <div id="container">
+            <form action="" method="POST" id="formulario">
+                <label for="nom">Nombre</label>
+                <input class="formu" id="nom" type="text" name="nom" />
+                
+                <label for="id">ID</label>
+                <input class="formu" id="id" type="text" name="id" />
+
+                <label for="cat">Selecione una categoria</label>
+                <select id="cat">
+                    <option value="">--Ninguna--</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                </select>
+                </br>
+                <label for="cantMat">Cantidad de libros de matematicas</label>
+                <input class="formu" id="cantMat" type="text" name="cantMat"/>
+                
+                <label for="cantSoc">Cantidad de libros de Estudios Sociales</label>
+                <input  class="formu" id="cantSoc" type="text" name="cantSoc"/>
+                
+                <label for="cantFis">Cantidad de libros de Fisica</label>
+                <input class="formu"  id="cantFis" type="text" name="cantFis"/>
+                
+                <input type="submit" value="Enviar">
+            </form>
+        </div>
+        <ul id="respuesta">
+            <li id="item1"></li>
+            <li id="item2"></li>
+            <li id="item3"></li>
+            <li id="item4"></li>
+            <li id="item5"></li>
+            <li id="item6"></li>
+        </ul>
+
+
+        <button id="start">Iniciar una nueva factura</button>
+
+        <button id="exit">&#x2717Salir</button>
+        
+        <script id="script" src="js/script.js"></script>
+    </body>    
+</html>
